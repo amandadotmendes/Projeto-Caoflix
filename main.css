@@ -46,7 +46,7 @@ header nav a:hover{
 /*foto principal*/
 .capa{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/capa_pagina.jpeg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('https://amandadotmendes.github.io/projeto-caoflix/capa_pagina.jpeg');
 
     height: 400px;
     background-size:cover;
